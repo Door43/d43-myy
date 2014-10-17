@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myy:home|Door43 (myy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myy|d43-myy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myy/archive/master.zip|d43-myy.zip]]
+
+**Recent Changes**
+{{changes>ns = myy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myy|Ethnologue data]]
+
